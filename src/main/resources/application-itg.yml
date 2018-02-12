@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://rm-2ze7dt11hv02l4h8wjo.mysql.rds.aliyuncs.com:3306/ydt-itg
+    username: root
+    password: admin1234!
