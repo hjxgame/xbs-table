@@ -15,6 +15,6 @@ public class XbsTableApplication {
 
 	@GetMapping(value = "/")
 	public String sayhello(){
-		return "hello world123";
+		return "hello world";
 	}
 }
