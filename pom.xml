@@ -10,7 +10,7 @@
 
 	<name>xbs-table</name>
 	<description>Demo project for Spring Boot</description>
-
+<!-- 菜鸡襄 -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
